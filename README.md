@@ -17,7 +17,7 @@ This project contains a Bash script that monitors various aspects of your system
 2. Make the script executable:
 
    ```bash
-   cd system-monitoring-script
+   cd System-Monitor
    chmod +x system-monitor.sh
 
 3. Run the script:
