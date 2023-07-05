@@ -45,7 +45,7 @@ To get started with the system monitoring script, follow the steps below:
 ### Output
 Upon running the script, you will see the following information displayed in the terminal:
 
-   ```bash
+   ```yaml
    System Monitoring:
    ------------------
    CPU Usage: XX%
